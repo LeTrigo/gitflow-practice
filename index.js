@@ -5,5 +5,5 @@ function sayHello(){
 }
 
 function sayBye(){
-    console.log("Chau pa")
+    console.log("Bye, bye pa")
 }
